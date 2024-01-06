@@ -7,7 +7,7 @@ Tech Stack:
   Backend:
     Language: Python
     Framework: Flask (lightweight and well-suited for micro-services like URL shortening)
-    Database: PostgreSQL (popular choice for Flask apps, supports SQLAlchemy)
+    Database: PostgreSQL sqlite3 (popular choice for Flask apps, supports SQLAlchemy)
     ORM: SQLAlchemy (object-relational mapper to interact with the database)
   Additional Packages:
     Flask-SQLAlchemy (integrates SQLAlchemy with Flask)
