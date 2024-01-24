@@ -1,4 +1,4 @@
-# AI-Virtual-Paint
+# Virtual-Painter
 AI Virtual Paint is an application that allows users to virtually paint in the air using their fingers. The project is developed in Python utilizing OpenCV for image processing and drawing, as well as MediaPipe for hand tracking.
 
 ### Tech Stacks:
