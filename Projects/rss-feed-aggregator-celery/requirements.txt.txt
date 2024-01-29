@@ -1,0 +1,6 @@
+Celery==5.2.3
+Flask==2.1.1
+feedparser==6.0.2
+beautifulsoup4==4.11.1
+requests==2.27.1
+SQLAlchemy==1.4.31
