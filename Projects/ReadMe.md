@@ -7,9 +7,11 @@ The AI Virtual Painter is a fun and interactive application that uses computer v
 
 How to Run
 To run the AI Virtual Painter, you will need to have Python and the following dependencies installed:
-
+<br>
 OpenCV
+<br>
 Mediapipe
+<br>
 Once you have these dependencies installed, you can run the application by executing the VirtualPainter.py script.
 
 ### Diabetes Prediction Model Web App
@@ -17,37 +19,53 @@ The Diabetes Prediction Model Web App is a web-based tool that allows users to i
 
 How to Run
 To run the Diabetes Prediction Model Web App, you will need to have Python and the following dependencies installed:
-
+<br>
 requests
+<br>
 scikit-learn
+<br>
 ngrok
+<br>
 pickle
+<br>
 Streamlit
+<br>
 Once you have these dependencies installed, you can run the application by executing Deploying_ML_model_as_public_API_ngrok.ipynb.
 
 ### RSS Feed Aggregator
 The RSS Feed Aggregator is a web-based application that allows users to aggregate and view content from multiple RSS feeds. It was built using Celery, natural language processing (NLP), SQLite, requests, Flask, and RSS.
-
+<br>
 How to Run
+<br>
 To run the RSS Feed Aggregator, you will need to have Python and the following dependencies installed:
-
+<br>
 Celery
+<br>
 NLP
+<br>
 SQLite
+<br>
 requests
+<br>
 Flask
+<br>
 RSS
+<br>
 Once you have these dependencies installed, you can run the application by executing the main.py script.
 
 ### Blog Generator LLM
 The Blog Generator LLM is a web-based tool that allows users to input a prompt and generates a blog post based on that prompt. It was built using the Llama 2 language model, Hugging Face, and Flask.
-
+<br>
 How to Run
+<br>
 To run the Blog Generator LLM, you will need to have Python and the following dependencies installed:
-
+<br>
 Llama 2
+<br>
 Hugging Face
+<br>
 Flask
+<br>
 Once you have these dependencies installed, you can run the application by executing the app.py script.
 
 #### Other Projects
@@ -58,21 +76,35 @@ Movie Recommendation System: A recommendation system that suggests movies to use
 Linear Logistic Regression from Scratch: An implementation of linear logistic regression using NumPy and other basic Python libraries.
 URL Shortener: A web-based tool that allows users to input a long URL and generates a shortened version of that URL.
 Technologies and Tools
-
+<br>
 The following technologies and tools were used in the creation of these projects:
-
+<br>
 OpenCV
+<br>
 Mediapipe
+<br>
 requests
+<br>
 scikit-learn
+<br>
 ngrok
+<br>
 pickle
+<br>
 Streamlit
+<br>
 Celery
+<br>
 NLP
+<br>
 SQLite
+<br>
 Flask
+<br>
 RSS
+<br>
 Llama 2
+<br>
 Hugging Face
+<br>
 NumPy
