@@ -1,55 +1,77 @@
-# Data Analysis and Image Processing Repository
+# Projects Portfolio
+This repository contains a collection of projects that I have completed to date. Each project is described in more detail below, along with the technologies and tools that I used to build it.
 
-Welcome to the Data Analysis and Image Processing Repository! This repository contains a collection of Jupyter notebooks and code examples showcasing exploratory data analysis, numpy array operations, and image processing techniques. Whether you're new to data analysis or looking to enhance your image processing skills, this repository has something for you.
+## Projects
+### AI Virtual Painter
+The AI Virtual Painter is a fun and interactive application that uses computer vision and hand tracking to allow users to paint with their hands. It was built using OpenCV for image processing and Mediapipe for hand tracking.
 
-## Contents
+How to Run
+To run the AI Virtual Painter, you will need to have Python and the following dependencies installed:
 
-The repository includes the following:
+OpenCV
+Mediapipe
+Once you have these dependencies installed, you can run the application by executing the VirtualPainter.py script.
 
-- Exploratory Data Analysis (EDA) on Various Datasets
-  - Jupyter notebooks analyzing datasets to extract insights, patterns, and trends.
-  - Techniques include data visualization, summary statistics, and more.
+### Diabetes Prediction Model Web App
+The Diabetes Prediction Model Web App is a web-based tool that allows users to input their data and receive a prediction of whether they are at risk of developing diabetes. It was built using requests, scikit-learn, ngrok, pickle, and Streamlit.
 
-- Numpy Array Operations
-  - Code examples demonstrating numpy's powerful array manipulation capabilities.
-  - Learn how to reshape arrays, perform mathematical operations, and more.
+How to Run
+To run the Diabetes Prediction Model Web App, you will need to have Python and the following dependencies installed:
 
-- Image Processing Techniques
-  - Jupyter notebooks showcasing various image processing techniques.
-  - Topics cover basic operations like image filtering, transformations, and more advanced tasks.
+requests
+scikit-learn
+ngrok
+pickle
+Streamlit
+Once you have these dependencies installed, you can run the application by executing Deploying_ML_model_as_public_API_ngrok.ipynb.
 
-## Getting Started
+### RSS Feed Aggregator
+The RSS Feed Aggregator is a web-based application that allows users to aggregate and view content from multiple RSS feeds. It was built using Celery, natural language processing (NLP), SQLite, requests, Flask, and RSS.
 
-To make the most of this repository, follow these steps:
+How to Run
+To run the RSS Feed Aggregator, you will need to have Python and the following dependencies installed:
 
-1. Clone the repository to your local machine using:
+Celery
+NLP
+SQLite
+requests
+Flask
+RSS
+Once you have these dependencies installed, you can run the application by executing the main.py script.
 
-2. Navigate to the appropriate directory for the topic you're interested in (e.g., EDA, numpy-operations, image-processing).
+### Blog Generator LLM
+The Blog Generator LLM is a web-based tool that allows users to input a prompt and generates a blog post based on that prompt. It was built using the Llama 2 language model, Hugging Face, and Flask.
 
-3. Open the Jupyter notebook files (`.ipynb`) using Jupyter Notebook or Jupyter Lab.
+How to Run
+To run the Blog Generator LLM, you will need to have Python and the following dependencies installed:
 
-4. Follow along with the examples, code snippets, and explanations to learn and practice.
+Llama 2
+Hugging Face
+Flask
+Once you have these dependencies installed, you can run the application by executing the app.py script.
 
-## Requirements
+#### Other Projects
+I have also completed the following projects:
 
-To run the code and notebooks in this repository, you'll need the following:
+Housing Price Prediction: A machine learning model that predicts the price of a house based on various features.
+Movie Recommendation System: A recommendation system that suggests movies to users based on their past viewing history.
+Linear Logistic Regression from Scratch: An implementation of linear logistic regression using NumPy and other basic Python libraries.
+URL Shortener: A web-based tool that allows users to input a long URL and generates a shortened version of that URL.
+Technologies and Tools
+The following technologies and tools were used in the creation of these projects:
 
-- Python (3.6 or higher)
-- Jupyter Notebook or Jupyter Lab
-- Numpy
-- Matplotlib (for data visualization)
-- Additional libraries mentioned in specific notebook requirements (e.g., seaborn for statistical graphs)
-
-You can install the required packages using the following command:
-pip install numpy matplotlib jupyterlab opencv-python
-
-
-## Contribution
-
-Contributions to this repository are welcome! If you have additional datasets, examples, or techniques related to data analysis and image processing, feel free to submit a pull request.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact [Shreyanshu Yadav](https://github.com/PhantomSage7)
-
-Happy learning and coding!
+OpenCV
+Mediapipe
+requests
+scikit-learn
+ngrok
+pickle
+Streamlit
+Celery
+NLP
+SQLite
+Flask
+RSS
+Llama 2
+Hugging Face
+NumPy
