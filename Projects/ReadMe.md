@@ -58,6 +58,7 @@ Movie Recommendation System: A recommendation system that suggests movies to use
 Linear Logistic Regression from Scratch: An implementation of linear logistic regression using NumPy and other basic Python libraries.
 URL Shortener: A web-based tool that allows users to input a long URL and generates a shortened version of that URL.
 Technologies and Tools
+
 The following technologies and tools were used in the creation of these projects:
 
 OpenCV
