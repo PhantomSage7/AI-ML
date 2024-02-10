@@ -8,9 +8,11 @@ The AI Virtual Painter is a fun and interactive application that uses computer v
 How to Run
 To run the AI Virtual Painter, you will need to have Python and the following dependencies installed:
 <br>
+<br>
 OpenCV
 <br>
 Mediapipe
+<br>
 <br>
 Once you have these dependencies installed, you can run the application by executing the VirtualPainter.py script.
 
@@ -19,6 +21,7 @@ The Diabetes Prediction Model Web App is a web-based tool that allows users to i
 
 How to Run
 To run the Diabetes Prediction Model Web App, you will need to have Python and the following dependencies installed:
+<br>
 <br>
 requests
 <br>
@@ -30,6 +33,7 @@ pickle
 <br>
 Streamlit
 <br>
+<br>
 Once you have these dependencies installed, you can run the application by executing Deploying_ML_model_as_public_API_ngrok.ipynb.
 
 ### RSS Feed Aggregator
@@ -38,6 +42,7 @@ The RSS Feed Aggregator is a web-based application that allows users to aggregat
 How to Run
 <br>
 To run the RSS Feed Aggregator, you will need to have Python and the following dependencies installed:
+<br>
 <br>
 Celery
 <br>
@@ -51,6 +56,7 @@ Flask
 <br>
 RSS
 <br>
+<br>
 Once you have these dependencies installed, you can run the application by executing the main.py script.
 
 ### Blog Generator LLM
@@ -60,11 +66,13 @@ How to Run
 <br>
 To run the Blog Generator LLM, you will need to have Python and the following dependencies installed:
 <br>
+<br>
 Llama 2
 <br>
 Hugging Face
 <br>
 Flask
+<br>
 <br>
 Once you have these dependencies installed, you can run the application by executing the app.py script.
 
@@ -78,6 +86,7 @@ URL Shortener: A web-based tool that allows users to input a long URL and genera
 Technologies and Tools
 <br>
 The following technologies and tools were used in the creation of these projects:
+<br>
 <br>
 OpenCV
 <br>
